@@ -1,3 +1,7 @@
 flymake*
 *~
 hello_tf
+model.ckpt*
+export_model
+checkpoint
+*.o
